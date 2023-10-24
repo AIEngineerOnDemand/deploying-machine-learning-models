@@ -1,3 +1,3 @@
 # Deployment of Machine Learning Models
-Accompanying repo for the online course Deployment of Machine Learning Models.
+My own version of the template
 
